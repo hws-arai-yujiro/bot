@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hws-arai-yujiro/bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hws-arai-yujiro/bot/issues"
+  },
+  "homepage": "https://github.com/hws-arai-yujiro/bot#readme",
+  "dependencies": {
+    "botkit": "0.0.7"
+  }
+}
